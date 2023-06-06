@@ -1,8 +1,0 @@
-D:\git\Repos\CS107.3-Lab-27115\CS107.3-Lab-27115\Lab01\Lab01-1\Lab01-1\bin\Debug\Lab01-1.exe.config
-D:\git\Repos\CS107.3-Lab-27115\CS107.3-Lab-27115\Lab01\Lab01-1\Lab01-1\bin\Debug\Lab01-1.exe
-D:\git\Repos\CS107.3-Lab-27115\CS107.3-Lab-27115\Lab01\Lab01-1\Lab01-1\bin\Debug\Lab01-1.pdb
-D:\git\Repos\CS107.3-Lab-27115\CS107.3-Lab-27115\Lab01\Lab01-1\Lab01-1\obj\Debug\Lab01-1.csproj.AssemblyReference.cache
-D:\git\Repos\CS107.3-Lab-27115\CS107.3-Lab-27115\Lab01\Lab01-1\Lab01-1\obj\Debug\Lab01-1.csproj.SuggestedBindingRedirects.cache
-D:\git\Repos\CS107.3-Lab-27115\CS107.3-Lab-27115\Lab01\Lab01-1\Lab01-1\obj\Debug\Lab01-1.csproj.CoreCompileInputs.cache
-D:\git\Repos\CS107.3-Lab-27115\CS107.3-Lab-27115\Lab01\Lab01-1\Lab01-1\obj\Debug\Lab01-1.exe
-D:\git\Repos\CS107.3-Lab-27115\CS107.3-Lab-27115\Lab01\Lab01-1\Lab01-1\obj\Debug\Lab01-1.pdb
