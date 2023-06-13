@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Lab1/obj/Debug
+/Lab1/Properties
+/Lab1/obj/Release
+/Lab1/bin/Debug
+/.vs/CS107.3-Lab-27115/v17
+/.vs
+/Lab2/Lab2/obj/Debug
+/Lab2/Lab2/bin/Debug
+/Lab2/Lab2/Properties
+/Lab2/.vs/Lab2
