@@ -11,15 +11,13 @@ namespace Lab2
         public double findArea(double radius)
         {
             double pi = 3.14159265;
-            double area = pi * radius * radius;
-            return area;
+            return pi * radius * radius; 
         }
 
         public double findCicumference(double radius)
         {
             double pi = 3.14159265;
-            double cicumference = 2 * pi * radius;
-            return cicumference;
+            return 2 * pi * radius;
         }
     }
 }
